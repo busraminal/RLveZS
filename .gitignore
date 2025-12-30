@@ -1,0 +1,18 @@
+# virtual environments
+.venv/
+venv/
+env/
+rl310/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# jupyter
+.ipynb_checkpoints/
+
+# data & logs
+data/raw/
+runs/
+*.log
