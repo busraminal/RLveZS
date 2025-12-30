@@ -131,7 +131,7 @@ gibi alanlara uyarlanabilir.
 
 **Büşra Mina AL**  
 Yapay Zeka Mühendisliği & Endüstri Mühendisliği  
-📌 Reinforcement Learning • Time Series • AI Systems
+📌 Reinforcement Learning • Time Series 
 
 ---
 
@@ -139,5 +139,3 @@ Yapay Zeka Mühendisliği & Endüstri Mühendisliği
 Bu repo **araştırma ve eğitim amaçlıdır**.  
 Notebook’lar deneysel olup sürekli geliştirilmektedir.
 
-Bu repo **araştırma ve eğitim amaçlıdır**.  
-Notebook’lar deneysel olup sürekli geliştirilmektedir.
