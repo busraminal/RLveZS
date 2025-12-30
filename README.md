@@ -1,4 +1,5 @@
-# 🧠 RLveZS  
+# 🧠 RLveZS 
+(production_ai_project hazırlık deneme yanılma öğrenme) 
 ## Pekiştirmeli Öğrenme (Reinforcement Learning) ve Zaman Serisi (Time Series) Entegrasyonu
 
 Bu proje, **zaman serisi tahminleri ile pekiştirmeli öğrenmeyi birleştirerek** karar verme problemlerine çözüm üretmeyi amaçlayan deneysel ve modüler bir çalışmadır.  
